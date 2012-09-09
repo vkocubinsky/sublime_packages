@@ -1,18 +1,17 @@
 {
 	"schema_version": "1.2",
 	"packages": [
-
 		{
-			"name": "SublimeTableEditor",
-			"description": "SublimeTableEditor is a package for everyone who uses Sublime Editor for edit simple text tables",
+			"name": "Table Editor",
+			"description": "A package for everyone who uses Sublime Editor for edit simple text tables",
 			"author": "Valery Kocubinsky (vkocubinsky)",
 			"homepage": "https://github.com/vkocubinsky/SublimeTableEditor",
-			"last_modified": "2012-09-08 23:00:00",
+			"last_modified": "2012-09-09 11:20:00",
 			"platforms": {
 				"*": [
 					{
-						"version": "0.2.0",
-						"url": "https://github.com/vkocubinsky/SublimeTableEditor/zipball/0.2.0"
+						"version": "0.3.0",
+						"url": "https://github.com/vkocubinsky/SublimeTableEditor/zipball/0.3.0"
 					}
 				]
 			}
