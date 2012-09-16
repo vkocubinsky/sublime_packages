@@ -10,8 +10,8 @@
 			"platforms": {
 				"*": [
 					{
-						"version": "0.6.0",
-						"url": "https://nodeload.github.com/vkocubinsky/SublimeTableEditor/zipball/0.6.0"
+						"version": "0.7.0",
+						"url": "https://nodeload.github.com/vkocubinsky/SublimeTableEditor/zipball/0.7.0"
 					}
 				]
 			}
