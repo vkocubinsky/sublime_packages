@@ -6,12 +6,12 @@
 			"description": "A package for edit text tables, it is very similar to Emacs-org mode table editor",
 			"author": "Valery Kocubinsky (vkocubinsky)",
 			"homepage": "https://github.com/vkocubinsky/SublimeTableEditor",
-			"last_modified": "2013-05-02 12:35:00",
+			"last_modified": "2013-08-06 15:12:00",
 			"platforms": {
 				"*": [
 					{
-						"version": "1.5.0",
-						"url": "https://nodeload.github.com/vkocubinsky/SublimeTableEditor/zipball/1.5.0"
+						"version": "1.6.0",
+						"url": "https://nodeload.github.com/vkocubinsky/SublimeTableEditor/zipball/1.6.0"
 					}
 				]
 			}
