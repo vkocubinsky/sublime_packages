@@ -11,10 +11,11 @@
 				"*": [
 					{
 						"version": "1.6.1",
-						"url": "https://nodeload.github.com/vkocubinsky/SublimeTableEditor/zipball/1.6.1"
+						"url": "https://github.com/vkocubinsky/SublimeTableEditor/archive/1.6.1.zip"
 					}
 				]
 			}
 		}
 	]	
 }
+
