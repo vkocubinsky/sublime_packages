@@ -6,7 +6,7 @@
 			"description": "A package for edit text tables, it is very similar to Emacs-org mode table editor",
 			"author": "Valery Kocubinsky (vkocubinsky)",
 			"homepage": "https://github.com/vkocubinsky/SublimeTableEditor",
-			"last_modified": "2013-08-08 15:12:00",
+			"last_modified": "2013-08-09 11:27:00",
 			"platforms": {
 				"*": [
 					{
