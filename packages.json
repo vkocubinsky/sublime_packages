@@ -9,9 +9,9 @@
 			"releases": [
 				{
 					"sublime_text": "*",
-					"version": "1.7.0",
-					"url": "https://github.com/vkocubinsky/SublimeTableEditor/archive/1.7.0.zip",
-					"date": "2013-09-06 14:37:00"
+					"version": "1.7.2",
+					"url": "https://github.com/vkocubinsky/SublimeTableEditor/archive/1.7.2.zip",
+					"date": "2013-09-06 14:45:00"
 				}
 			]			
 		}
