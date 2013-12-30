@@ -10,11 +10,14 @@
 			"labels": ["markdown", "textile", "reStructuredText", "pandoc", "emacs org mode"],
 			"releases": [
 				{
-					"sublime_text": "*",
-					"version": "1.7.8",
-					"url": "https://github.com/vkocubinsky/SublimeTableEditor/archive/1.7.8.zip",
-					"date": "2013-12-29 08:58:00"
+					"sublime_text": "<3000",
+					"url": "https://github.com/vkocubinsky/SublimeTableEditor/tree/st2"
+				},
+				{
+					"sublime_text": ">2999",
+					"url": "https://github.com/vkocubinsky/SublimeTableEditor/tags"
 				}
+
 			]			
 		}
 	]	
