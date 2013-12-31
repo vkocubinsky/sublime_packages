@@ -5,7 +5,9 @@
 			"name": "Table Editor",
 			"description": "Package for edit text tables",
 			"author": "Valery Kocubinsky (vkocubinsky)",
-			"homepage": "https://github.com/vkocubinsky/SublimeTableEditor",
+			"details": "https://github.com/vkocubinsky/SublimeTableEditor",
+			"readme": "https://raw.github.com/vkocubinsky/SublimeTableEditor/master/README.md",
+			"issues": "https://github.com/vkocubinsky/SublimeTableEditor/issues", 
 			"donate": "https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=CBL373WUKNTZW",
 			"labels": ["markdown", "textile", "reStructuredText", "pandoc", "emacs org mode"],
 			"releases": [
